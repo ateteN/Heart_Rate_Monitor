@@ -1,4 +1,5 @@
 Objectives
+
 Heart Rate Monitoring Script
 Basic Shell Scripting: A basic shell scripts using commands like while loops for continuous execution, 
 date for timestamping, echo for output, and random for generating simulated data.
